@@ -6,7 +6,8 @@
           "duration": "6 weeks",
           "price": 120,
           "id": 1,
-          "shortDescription": "Learn the fundamentals of color theory."
+          "shortDescription": "Learn the fundamentals of color theory.",
+          "img": "./img/colorCoding.webp"
         },
         {
           "name": "Creative Teamwork",
@@ -14,7 +15,8 @@
           "duration": "4 weeks",
           "price": 150,
           "id": 2,
-          "shortDescription": "Boost creativity in team settings."
+          "shortDescription": "Boost creativity in team settings.",
+          "img": "./img/signoraCreativa.webp"
         },
         {
           "name": "Creative Visualization Techniques",
@@ -22,7 +24,8 @@
           "duration": "8 weeks",
           "price": 200,
           "id": 3,
-          "shortDescription": "Learn to visualize your creative ideas."
+          "shortDescription": "Learn to visualize your creative ideas.",
+          "img": "./img/teamCreativness.webp"
         }
       ]
       
